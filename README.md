@@ -17,4 +17,9 @@ I dette dokumentet så kan du se løsningsforslag for [ordinær  eksamen 2019](h
 
 # Lykke til på eksamen
 
-![gif](https://media0.giphy.com/media/3knKct3fGqxhK/giphy.gif)
+![hackerman](https://media0.giphy.com/media/3knKct3fGqxhK/giphy.gif)
+
+
+God musikker en essensiell del av koding, så her har vi 2 spillelister som er bra 
+* [POP III](https://open.spotify.com/playlist/5K2rk53f4LxzsRnIXmqbZJ?si=84f3607999b3420e)
+* [Rullende stein](https://open.spotify.com/playlist/0l5y5vtuUtBnsi3D4o20cZ?si=0d5d90b7ed7942aa)
