@@ -5,7 +5,7 @@ I dette dokumentet så kan du se løsningsforslag for [ordinær  eksamen 2019](h
 #### Teamaer  i denne eksamenen er: 
 
 * For & while løkker 
-* Klasser og objekter og tilfeldig tall genereator (**merk at her så blir det brukt [random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html), ikke [java math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html))
+* Klasser og objekter og tilfeldig tall genereator (*merk at her så blir det brukt [random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html), ikke [java math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)*)
 * arrays (her kan man bruke [Arrays.sort()](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html) for å sortere)
 * Lesing av [UML](https://en.wikipedia.org/wiki/Class_diagram)(klassediagrammer) diagrammer og arv
 * FXML (her er det kun koding av kontrolleren)
