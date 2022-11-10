@@ -1,5 +1,10 @@
 import java.util.ArrayList;
-
+/*
+Merknader:
+-Du trenger ikke å lage getters/setters hvis ikke klassediagrammet ber om det
+-Anbefaler å se på videoer om extends og interfaces
+-Goodspeed!
+ */
 class Bok{
     private String tittel;
     private String forfatter;

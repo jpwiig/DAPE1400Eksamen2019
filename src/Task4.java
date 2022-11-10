@@ -16,7 +16,7 @@ public class Controller {
     private void btnBeregn(ActionEvent event) {
         //helltallsArrayet
         int [] priser = {36,59,82,105,128};
-
+//viser kun til logikk og ikke selve FXML så mye
         int innAntall = Integer.parseInt(txtAntall.getText());
         int innsoner = Integer.parseInt(txtSoner.getText());
         boolean rabatt = chkRabatt.isSelected();
@@ -26,7 +26,7 @@ public class Controller {
 
             int sum = innsoner * innAntall;
 
-            if (rabatt == true) {
+            if (rabatt == true) { //kan bli simplisfisert, men det kan være lurt å skrive sånn som dette for sensoren sin skyld
                 sum = sum/2;
                 lblResultat.setText("Din pris ble: " + sum);
             }

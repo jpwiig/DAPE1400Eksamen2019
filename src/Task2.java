@@ -14,7 +14,8 @@ class Trekning{
         return vinnertallene;
     }
 
-    public void sorterPrint (){
+    public void sorterPrint (){// legger inn tallene
+        leggInnTallene();
         Arrays.sort(vinnertallene);
         for (int i : vinnertallene){
             System.out.print(i + " ");
@@ -24,6 +25,7 @@ class Trekning{
 
 public class Task2 {
     public static void main(String[] args) {
-
+    Trekning trekk = new Trekning();
+    trekk.sorterPrint(); //main for å printe ut
     }
 }
