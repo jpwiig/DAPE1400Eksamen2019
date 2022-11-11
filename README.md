@@ -13,6 +13,8 @@ I dette dokumentet så kan du se løsningsforslag for [ordinær  eksamen 2019](h
 
 **Dette er kun et løsningsforslag**, Dere får mest ut av dette med å delta i øvingstimene og høre min tankegang under løsningen. 
 
+Det vil også komme lit basic dokumentasjon i readme etterhvert om hvordan oppgavene er gjort
+
 #### opggavene finner dere i src, task 1-4
 
 # Lykke til på eksamen
