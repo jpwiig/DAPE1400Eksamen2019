@@ -22,7 +22,7 @@ public class Controller {
         boolean rabatt = chkRabatt.isSelected();
 
         try {
-            int pris =  priser[innsoner];
+            int pris =  priser[innsoner -1];
 
             int sum = innsoner * innAntall;
 
